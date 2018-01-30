@@ -3,7 +3,8 @@ function paragraphSelector(){
 
 return $('p')
 }
-function lastImageSelector{
+
+function lastImageSelector(){
   $('img:last')
 
 }
